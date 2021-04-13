@@ -1,6 +1,9 @@
 this is to dump calendar events to discord
 
-the configuration is customized at the bottom of the file.
+checklist:
+- create new google apps script
+- create a trigger for it to fire every day
+- copy calendar.js code into it and customize the bottom of the file
 - set the calendar list
 - set the discord webhooks
 - set the public URL for the calendar
